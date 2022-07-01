@@ -1,0 +1,8 @@
+user_input = input("введите предложение:")
+print(user_input.replace(" ","-"))
+user_input1 = input("введите первое слово:")
+user_input2 = input("Введите второе слово:")
+user_input3 = input("Введите третье слово:")
+user_input4 = input("Введите четвертое слово:")
+
+print(user_input1, user_input2, user_input3, user_input4, sep='-', end="!")
