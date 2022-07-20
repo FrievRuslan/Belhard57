@@ -1,0 +1,6 @@
+M = 2
+K = 25
+a_list = range(0, 50)
+for n in a_list: #if если
+    if n % M == 0 and n > K:
+        print(n)
