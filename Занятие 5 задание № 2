@@ -1,0 +1,21 @@
+
+# у пользователя спрашивает(вводит) число
+# потом действие (+-*/)
+# и второе число
+# number_1 = float(input("ввести первое число: "))
+# action = input("введите действие +-*/: ")
+# number_2 = float(input("введите второе число: "))
+# if action == "+": #если наша действие равно плюсу)
+#     summa = number_1 + number_2 # мы складываем наше число 1 и наше число 2
+#     print(summa)
+# elif action == "-": #иначе, если наше действие равно минусу
+#     sub = number_1 - number_2 #sub вычитание
+#     print(sub)
+# elif action == "*": #иначе, если наше действие равно минусу
+#     multiplication = number_1 * number_2 #multiplication умножение
+#     print(multiplication)
+# elif action == "/": #иначе, если наше действие равно минусу
+#     division = number_1 / number_2 #division деление
+#     print(division)
+# #float -дробные числа
+#
